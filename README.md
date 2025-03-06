@@ -23,7 +23,20 @@ g++ -std=c++17 operator.cpp -o operator
 ## Usage
 Run the program from the command line:
 ```sh
-just run!
+   ____ ______   ________________ _/  |_  ___________ 
+   /  _ \\____ \_/ __ \_  __ \__  \\   __\/  _ \_  __ \
+  (  <_> )  |_> >  ___/|  | \// __ \|  | (  <_> )  | \/
+   \____/|   __/ \___  >__|  (____  /__|  \____/|__|   
+         |__|        \/           \/                   
+  
+  developed by seoyulh92
+  MIT License
+  0.0.1
+
+1 - make a dockerfile
+2 - add a new language
+선택: 
+
 ```
 Available options:
 - `opt num.1`: make a dockerfile for your project
